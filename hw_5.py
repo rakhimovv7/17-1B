@@ -71,7 +71,6 @@ print(book1 <= book2, book2 <= book3, book3 <= book1)
     
 
 
-    
 
 
    
